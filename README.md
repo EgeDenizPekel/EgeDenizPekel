@@ -1,70 +1,148 @@
-# Ege Deniz Pekel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,9F7AEA,C084FC&height=220&section=header&text=Ege%20Deniz%20Pekel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" />
+</p>
 
-**Data Scientist · ML Engineer · Software Engineer**
+<p align="center">
+  <a href="https://linkedin.com/in/egedenizpekel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:pekelegedeniz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://egedenizpekel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=EgeDenizPekel&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+</p>
 
-MS Data Science @ University of Connecticut &nbsp;|&nbsp; Previously @ Garanti BBVA Teknoloji
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9F7AEA&center=true&vCenter=true&width=540&lines=Building+end-to-end+ML+systems;Data+Science+%7C+Finance+%7C+Sports;4%2B+years+industry+experience;MS+Data+Science+%40+UConn;Open+to+full-time+roles+in+2026" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
+I build end-to-end ML systems - from raw data pipelines and model training to deployed APIs and dashboards.<br/>
+My work sits at the intersection of <strong>data, finance, and sports</strong>. Currently completing my MS in Data Science at UConn.<br/>
+Previously built backend systems and led a full Data Warehouse implementation at <strong>Garanti BBVA Teknoloji</strong>.
+</p>
 
 ---
 
-I build end-to-end ML systems - from raw data pipelines and model training to deployed APIs and dashboards. My work sits at the intersection of **data, finance, and sports**. I care about rigorous evaluation, reproducible pipelines, and bridging the gap between a trained model and a system that actually runs in production.
+## 3D Contribution Calendar
 
-4+ years of industry experience. Looking for full-time roles in data science, ML engineering, and software engineering.
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</p>
+
+> _Rendered by the [profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) action. Updates daily._
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Stock Signal Engine](https://github.com/EgeDenizPekel/stock-signal-engine) | End-to-end stock signal system: 27 engineered features, 4 model families, FastAPI inference endpoint on AWS, React dashboard on Vercel. LSTM achieves Sharpe 1.23 on 2024 test data. | Python · XGBoost · PyTorch · MLflow · FastAPI · Docker · AWS · React |
-| [NBA Match Outcome Predictor](https://github.com/EgeDenizPekel/nba-predictor) | 22,796 games, 19 seasons, leakage-free rolling features. Model selected on Brier score rather than accuracy - val AUC 0.70, close to the professional sportsbook ceiling. Includes SHAP explainability and a React dashboard. | Python · XGBoost · PyTorch · MLflow · FastAPI · React |
-| [NBA Playoff Press Conference Sentiment Analyzer](https://github.com/EgeDenizPekel/press-conference-sentiment-analyzer) | Fine-tuned RoBERTa on 23K sports press conference turns - 92% accuracy vs. 54% for off-the-shelf baselines. Core finding: no statistically significant sentiment-outcome correlation (coaches manage public tone regardless of results). | Python · PyTorch · Hugging Face · RoBERTa · OpenAI · MLflow · FastAPI · React |
-| [Transaction Anomaly Explainer](https://github.com/EgeDenizPekel/transaction-anomaly-explainer) | Fraud detection with SHAP-grounded LLM explanations. Measures LLM faithfulness against SHAP ground truth - constrained prompts reduced hallucination rate from 11% to 3%. Includes Evidently drift monitor and Celery retraining pipeline. | Python · LightGBM · SHAP · LiteLLM · OpenAI · Evidently · Celery · Docker · AWS |
-| [Repo Onboarding Agent](https://github.com/EgeDenizPekel/repo-onboarding-agent) | LangGraph agent that autonomously explores any GitHub repo - clones, plans, explores files iteratively, self-scores understanding (0-1), validates every file reference with `os.path.exists`. Fine-tuned Qwen2.5-7B with MLX LoRA. 20-repo ablation benchmark. | Python · LangGraph · LangChain · FastAPI · OpenAI · Qwen2.5 · mlx-lm · React |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EgeDenizPekel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=EgeDenizPekel&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeDenizPekel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EgeDenizPekel&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EgeDenizPekel/EgeDenizPekel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> _Generated by the [snk](https://github.com/Platane/snk) action. Updates daily._
 
 ---
 
 ## Tech Stack
 
-**Languages**
-`Python` `JavaScript` `SQL` `Java` `C++`
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-**Data Science & ML**
-`PyTorch` `scikit-learn` `XGBoost` `LightGBM` `pandas` `Hugging Face` `MLflow` `LangGraph` `LangChain` `mlx-lm`
+<p align="center"><strong>Data Science & ML</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-00B388?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+</p>
 
-**Web & Backend**
-`FastAPI` `React` `Node.js` `Java Spring Boot` `Redis` `REST APIs`
+<p align="center"><strong>Web & Backend</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-**DevOps & Cloud**
-`Docker` `AWS (S3, EC2, Lambda)` `Vercel` `Git` `Kibana`
+<p align="center"><strong>DevOps & Cloud</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [Stock Signal Engine](https://github.com/EgeDenizPekel/stock-signal-engine) | End-to-end stock signal system: 27 engineered features, 4 model families, FastAPI on AWS, React dashboard on Vercel | LSTM Sharpe 1.23 on 2024 test data · 20 integration tests |
+| [NBA Match Outcome Predictor](https://github.com/EgeDenizPekel/nba-predictor) | 22,796 games across 19 seasons, leakage-free rolling features, SHAP explainability, React dashboard | Val AUC 0.70 - near sportsbook ceiling · Brier-based model selection |
+| [NBA Press Conference Sentiment](https://github.com/EgeDenizPekel/press-conference-sentiment-analyzer) | Fine-tuned RoBERTa on 23K sports press conference turns for coach/player sentiment classification | 92% accuracy vs 54% baseline · Published to Hugging Face Hub |
+| [Transaction Anomaly Explainer](https://github.com/EgeDenizPekel/transaction-anomaly-explainer) | Fraud detection with SHAP-grounded LLM explanations, Evidently drift monitor, Celery retraining pipeline | LLM faithfulness 97% (constrained) · F1 recovery after drift in <10 min |
+| [Repo Onboarding Agent](https://github.com/EgeDenizPekel/repo-onboarding-agent) | LangGraph agent that autonomously explores any GitHub repo, self-scores understanding, validates file refs deterministically | Fine-tuned Qwen2.5-7B · 96.6% file ref accuracy · $0.04/guide |
 
 ---
 
 ## Experience
 
-**Garanti BBVA Teknoloji** - Software Engineer &nbsp;_(Jan 2023 - Jul 2025)_
-- Built internal dashboard features for real-time crypto trade monitoring via Spring Boot APIs
-- Led full Data Warehouse implementation: 60+ production tables, 100K+ rows/day ingestion pipeline
-- Enabled daily financial reporting for the Finance team; delivered reports to senior management
+**Garanti BBVA Teknoloji** - Software Engineer &nbsp;`Jan 2023 - Jul 2025`
+- Real-time crypto trade monitoring dashboard via Spring Boot APIs (12-person team)
+- Led full Data Warehouse migration: 60+ production tables, 100K+ rows/day ingestion pipeline
+- SQL workshops for the Finance team enabling daily reports to senior management
 
-**Cubtale** - Mobile Application Developer &nbsp;_(Sep 2021 - Jun 2022)_
-- Built cross-platform mobile features in Flutter for an AI-driven baby care app
+**Cubtale** - Mobile Application Developer &nbsp;`Sep 2021 - Jun 2022`
+- Cross-platform features in Flutter for an AI-driven baby care app
 
-**Peak Games** - Software Engineer Intern &nbsp;_(Jul 2020 - Sep 2020)_
-- Built a configurable puzzle game in Unity/C# for an internal hackathon
+**Peak Games** - Software Engineer Intern &nbsp;`Jul 2020 - Sep 2020`
+- Configurable puzzle game in Unity/C# for an internal game jam
 
 ---
 
 ## Education
 
-**MS Data Science** - University of Connecticut &nbsp;_(2025 - 2026)_ &nbsp;· GPA 3.88
-Big Data Analytics, Data Mining, Machine Learning for Data Science, Applied Generative AI
+**MS Data Science** · University of Connecticut &nbsp;`2025 - 2026` &nbsp;· GPA 3.88
 
-**BS Computer Science & Engineering** - Sabancı University &nbsp;_(2017 - 2021)_
-Software Engineering, Algorithms, Database Systems, Machine Learning
+**BS Computer Science & Engineering** · Sabancı University &nbsp;`2017 - 2021`
 
 ---
 
-## Contact
-
-[LinkedIn](https://linkedin.com/in/egedenizpekel) &nbsp;·&nbsp; [GitHub](https://github.com/EgeDenizPekel) &nbsp;·&nbsp; pekelegedeniz@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,9F7AEA,C084FC&height=120&section=footer" />
+</p>
