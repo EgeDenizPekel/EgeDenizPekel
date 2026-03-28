@@ -45,6 +45,7 @@ Previously built backend systems and led a full Data Warehouse implementation at
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center"><strong>Web & Backend</strong></p>
@@ -75,6 +76,7 @@ Previously built backend systems and led a full Data Warehouse implementation at
 | [NBA Press Conference Sentiment](https://github.com/EgeDenizPekel/press-conference-sentiment-analyzer) | Fine-tuned RoBERTa on 23K sports press conference turns for coach/player sentiment classification | 92% accuracy vs 54% baseline · Published to Hugging Face Hub |
 | [Transaction Anomaly Explainer](https://github.com/EgeDenizPekel/transaction-anomaly-explainer) | Fraud detection with SHAP-grounded LLM explanations, Evidently drift monitor, Celery retraining pipeline | LLM faithfulness 97% (constrained) · F1 recovery after drift in <10 min |
 | [Repo Onboarding Agent](https://github.com/EgeDenizPekel/repo-onboarding-agent) | LangGraph agent that autonomously explores any GitHub repo, self-scores understanding, validates file refs deterministically | Fine-tuned Qwen2.5-7B · 96.6% file ref accuracy · $0.04/guide |
+| [ArXiv AI Research Assistant](https://github.com/EgeDenizPekel/arxiv-ai-research-assistant) | Production RAG over 750 ML/AI papers with hybrid retrieval (dense + BM25 + RRF), cross-encoder reranking, HyDE query rewriting, and RAGAS evaluation across 4 configs tracked in MLflow | Faithfulness 90.3% (reranked) vs 83.4% naive · 11,351 chunks · React + SSE dashboard |
 
 ---
 
